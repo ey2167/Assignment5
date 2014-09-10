@@ -1,3 +1,4 @@
+package asteriskcube;
 /*Elohe Yonas CSC200 project problem 1. the asterisk line
  * using system.out.println, i can convey the messages of 
  * what i type into java. using this method, i need to 

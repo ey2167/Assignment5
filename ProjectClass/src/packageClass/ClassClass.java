@@ -2,6 +2,7 @@ package packageClass;
 import java.util.Scanner;
 public class ClassClass {
 	
+	 
 	/**
 	 * Elohe Yonas
 	 * csc200
@@ -58,6 +59,12 @@ public class ClassClass {
 	public String toString() 
 	{
 		return "ClassClass[wallcolor is" + walls + ",floortype is" + floor + ",# of windows=" + windows + "]";
+	}
+
+	{
+		System.out.println(windows);
+		System.out.println(floor);
+		System.out.println(walls);
 	}
 	
 }
